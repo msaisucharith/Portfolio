@@ -1,0 +1,13 @@
+[
+  {
+    "role": "Analyst",
+    "organisation": "HCL",
+    "startDate": "OCT, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Worked on PFG windows server and database",
+      "implementation on configuration"
+    ],
+    "imageSrc": "history/HCL.png"
+  }
+]
