@@ -4,23 +4,15 @@
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
     "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "demo": "https://ominifood-sucharith.netlify.app/",
+    "source": "https://github.com/msaisucharith/bike-rental-system"
   },
   {
-    "title": "Project B",
+    "title": "OminiFood",
     "imageSrc": "projects/project.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["Html", "Css", "Javascript", "React"],
+    "demo": "https://ominifood-sucharith.netlify.app/",
+    "source": "https://github.com/msaisucharith/bike-rental-system"
   }
 ]
