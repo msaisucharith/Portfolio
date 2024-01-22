@@ -1,4 +1,12 @@
 [
+    {
+    "title": "Image search app",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["html","css","Javascript"],
+    "demo": "https://msaisucharith.github.io/image-search-app/",
+    "source": "https://github.com/msaisucharith/image-search-app"
+  },
   {
     "title": "Bike rental application",
     "imageSrc": "projects/project.png",
