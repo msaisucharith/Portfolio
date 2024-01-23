@@ -36,7 +36,7 @@ export const Navbar = () => {
           </li>
 
           <li>
-            <a href="#Projects">Projects</a>
+            <a href="#projects">Projects</a>
           </li>
 
           <li>
